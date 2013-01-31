@@ -1,7 +1,7 @@
 Kusakabe
 ================================================================================
 
-HankakuKana Validator
+HankakuKana Validator, inspired by [Kusakabe-san](http://ja.uncyclopedia.info/wiki/Kusakabe%E3%81%95%E3%82%93)
 
 
 Requirements
