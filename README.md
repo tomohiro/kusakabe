@@ -4,6 +4,12 @@ Kusakabe
 HankakuKana Validator, inspired by [Kusakabe-san](http://ja.uncyclopedia.info/wiki/Kusakabe%E3%81%95%E3%82%93)
 
 
+[![Build Status](https://travis-ci.org/Tomohiro/kusakabe.png?branch=master)](https://travis-ci.org/Tomohiro/kusakabe)
+[![Dependency Status](https://gemnasium.com/Tomohiro/kusakabe.png)](https://gemnasium.com/Tomohiro/kusakabe)
+[![Stillmaintained](http://stillmaintained.com/Tomohiro/kusakabe.png)](http://stillmaintained.com/Tomohiro/kusakabe)
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/Tomohiro/kusakabe)
+
+
 Requirements
 -------------------------------------------------------------------------------
 
@@ -20,10 +26,6 @@ Add this line to your application's Gemfile:
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install kusakabe
 
 
 Usage
