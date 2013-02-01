@@ -16,7 +16,7 @@ module Kusakabe
     end
 
     def invalid?(str)
-      str =~ /(?:[\xEF\xBD\xA1-\xEF\xBD\xBF]|[\xEF\xBE\x80-\xEF\xBE\x9F])/
+      str.force_encoding('utf-8') =~ /(?:[\xEF\xBD\xA1-\xEF\xBD\xBF]|[\xEF\xBE\x80-\xEF\xBE\x9F])/
     end
 
     def valid?(str)
